@@ -24,7 +24,7 @@ The main idea of the one below is that we make the first height and the last hei
 which means that the only way that other area and beat this one is one side of the height is taller
 than the previous height
 
-### as we shrink edge, the only way that current area can beat the previous one is beacuse now's height is higher
+### As we shrink edge, the only way that current area can beat the previous one is beacuse now's height is higher
 
 ```cpp
 class Solution {
